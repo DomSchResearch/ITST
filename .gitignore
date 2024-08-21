@@ -1,0 +1,4 @@
+data/*
+wandb/*
+ITST/*
+__pycache__/*
